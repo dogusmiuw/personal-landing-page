@@ -1,0 +1,50 @@
+.heading-small {
+    font-size: 1.25rem;
+}
+
+.heading-medium {
+    font-size: 1.5rem;
+}
+
+.heading-large {
+    font-size: 1.75rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-dark {
+    background-color: #2e2e2e;
+}
+
+.bg-light {
+    background-color: aliceblue;
+}
+
+.btn-blue {
+    display: inline-block;
+    background-color: rgb(1, 98, 195);
+    padding: 1rem;
+    color: white;
+    width: 150px;
+    text-align: center;
+}
+
+.btn-light-blue {
+    display: inline-block;
+    background-color: rgb(83, 168, 254);
+    padding: 1rem;
+    color: white;
+    width: 150px;
+    text-align: center;
+}
+
+.btn-dark {
+    display: inline-block;
+    background-color: #2e2e2e;
+    padding: 1rem;
+    color: white;
+    width: 150px;
+    text-align: center;
+}

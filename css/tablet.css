@@ -1,0 +1,26 @@
+#navbar {
+    flex-direction: column;
+    width: 100%;
+}
+
+#navbar ul {
+    width: 100%;
+    margin-top: 0.6rem;
+    justify-content: space-evenly;
+}
+
+#home {
+    flex-direction: column;
+}
+
+#home article {
+    width: 80%;
+}
+
+#contactme input {
+    width: 90%;
+}
+
+#contactme textarea {
+    width: 90%;
+}
